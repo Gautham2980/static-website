@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.accord-container{
+    width: 90%;
+    margin: auto;
+    padding-bottom: 20px;
+    
+   
+}
+#accordian-section{
+    background-color: #ebf0fa;
+   
+}
+
+/* .accord-col{
+    width: 50%;
+    padding: 20px;
+   
+} */
+.accord-head{
+    font-size: 30px;
+    padding-top: 50px;
+    color: #004466;
+    
+}
+
+.accord-head span{
+    color: #004466;
+    font-size: 32px;
+}
+
+.accord-para{
+    font-size: 14px;
+    opacity: 0.7;
+}
+
+/* .accord-row{
+    display: flex;
+} */
+
+.accord-img{
+    padding-left: 7%;
+}
+
+.accord-img img{
+    width: 100%;
+}

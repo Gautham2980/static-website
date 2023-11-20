@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.skill-container{
+    width: 90%;
+    margin: auto;
+    padding-bottom: 90px;
+}
+
+.skill-col{
+    width: 45%;
+    
+    
+}
+
+.skill-img{
+    width: 100%;
+    padding-top: 10%;
+    padding-left: 7%;
+}
+
+
+.skill-img img{
+    width: 100%;
+}
+
+.skill-row{
+    display: flex;
+}
+
+.skill-bar{
+  padding-left: 40px;
+}
+
+.pad{
+    padding: 5px;
+}
+
+.skill-head{
+padding-top: 50px;
+padding-left: 40px;
+color: #004466;
+font-size: 34px;
+}
+
+.skill-para{
+    padding-left: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.progress{
+    padding: 3px;
+    background-color: #004466;
+}
+
+.skill-col1{
+    width: 45%;
+    padding-left: 40px;
+    
+}
